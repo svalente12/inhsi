@@ -1,0 +1,12 @@
+/*body{ color: #444; font: 12px Arial,Geneva,sans-serif; width:500px;margin:0 auto}
+h3 {color: #444; border-bottom: 1px solid #000000;clear: both;font-size: 14px;font-weight: 700;margin: 10px 0;}*/
+.results-grid{ border-color: #DEDEDE;border-style: solid none;border-width: 1px medium;padding: 5px 0; width:90%; margin:0 auto}            
+.results-header{ background: none repeat scroll 0 0 #760507; color: #FFFFFF;}
+.results-header th, .results-header td {color: #FFFFFF; padding:5px 10px; font-weight:bold; text-align:left}
+table{ font-size:12px; border-collapse: collapse; border-spacing: 0; width: 100%; margin-bottom: 0}
+td{ padding: 5px 10px; text-align: left}
+tr.alternate td{ background-color: #D3DADD}
+th{ background: url("../img/menuBackgroundGradient.png") repeat-x scroll left top white; color: white; text-align: center;}
+.foundcount{margin:1.5em 0; color: #444}
+.logout{float:right}
+.playLink{display:block; vertical-align: middle; background: transparent url("../img/player_play_video.png") no-repeat scroll 0 0 ; padding: 9px 0 10px 45px; }
